@@ -25,9 +25,10 @@ To upload to SIS, follow these Steps:
 3. Inside an individual topic, follow these steps:
 
     3.1. Click "Copy shareable link" in Zoom. Ensure that you know what the recording is about. If you are unsure, cross-reference the daily schedule in SIS and watch a portion of the video.
+
     3.2. In SIS, on the Recordings page, click "Add a recording" in the top-right corner.
-    3.3. Fill out Option 2
-    
+
+    3.3. Fill out Option 2:
         3.3.1. Paste the shareable link that you copied from Zoom into the URL field.
         3.3.2. **Crucially** the passcode for a given recording is located at the end of its Zoom-copied URL from which it must be CUT and pasted into the passcode field in SIS.
 

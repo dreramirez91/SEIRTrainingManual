@@ -32,11 +32,10 @@ To upload to SIS, follow these Steps:
     
     - Paste the shareable link that you copied from Zoom into the URL field.
     - **Crucially** the passcode for a given recording is located at the end of its Zoom-copied URL from which it must be CUT and pasted into the passcode field in SIS.
-
-Example:
-- Clipboard after clicking "Copy shareable link." in Zoom: https://galvanize.zoom.us/rec/share/y5U5ylMX2_SAnEGnp-h-k9VK4pU4EUytK-BarDcozz2mRshckpYs5Oe6WYehdm2W.wj3YHQWfmEgW0ezK?startTime=1707844261000
-Passcode: K*$W9fu^
-- What should go in the URL field in SIS: https://galvanize.zoom.us/rec/share/y5U5ylMX2_SAnEGnp-h-k9VK4pU4EUytK-BarDcozz2mRshckpYs5Oe6WYehdm2W.wj3YHQWfmEgW0ezK?startTime=1707844261000
-- What should go in the Passcode field in SIS: K*$W9fu^
+    - Example:
+        - Clipboard after clicking "Copy shareable link." in Zoom: https://galvanize.zoom.us/rec/share/y5U5ylMX2_SAnEGnp-h-k9VK4pU4EUytK-BarDcozz2mRshckpYs5Oe6WYehdm2W.wj3YHQWfmEgW0ezK?startTime=1707844261000
+        Passcode: K*$W9fu^
+        - What should go in the URL field in SIS: https://galvanize.zoom.us/rec/share/y5U5ylMX2_SAnEGnp-h-k9VK4pU4EUytK-BarDcozz2mRshckpYs5Oe6WYehdm2W.wj3YHQWfmEgW0ezK?startTime=1707844261000
+        - What should go in the Passcode field in SIS: K*$W9fu^
 
 Again, it is imperative that recordings be uploaded to SIS at the end of everyday so that students can reference them as needed.

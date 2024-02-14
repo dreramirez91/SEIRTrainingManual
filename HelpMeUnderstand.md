@@ -34,6 +34,7 @@ Staff use a system of status reactions on posts to indicate to one another and t
 ✅ <- Use this when you believe the ticket is resolved. If the students are also following procedure then they will edit the post with RESOLVED. If they do not after a reasonable amount of time, please remind them as other students with the same problem may be waiting for their solution.
 
 ## Prioritization
+
 SEIRs prioritize the help-me-understand channel all day throughout their shift, unless directed otherwise by instructors or CLs. This enables instructors to spend a majority of their time focusing on lecture preparation. SEIRs are always welcome to tag in an instructor for additional assistance as needed on the appropriate HMU thread.
 
 While students are introduced to these procedures early in the course, occasional and gentle reminders may be necessary. It is crucial for all staff members to actively reinforce these procedures consistently. Failing to do so could result in a breakdown of the system, significantly impacting both the team and the student experience. Therefore, it is essential that we proactively address and adhere to these guidelines to maintain a smooth and effective learning environment.

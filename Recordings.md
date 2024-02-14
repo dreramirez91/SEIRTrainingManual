@@ -29,8 +29,9 @@ To upload to SIS, follow these Steps:
     3.2. In SIS, on the Recordings page, click "Add a recording" in the top-right corner.
 
     3.3. Fill out Option 2:
-        3.3.1. Paste the shareable link that you copied from Zoom into the URL field.
-        3.3.2. **Crucially** the passcode for a given recording is located at the end of its Zoom-copied URL from which it must be CUT and pasted into the passcode field in SIS.
+    
+    - Paste the shareable link that you copied from Zoom into the URL field.
+    - **Crucially** the passcode for a given recording is located at the end of its Zoom-copied URL from which it must be CUT and pasted into the passcode field in SIS.
 
 Example:
 - Clipboard after clicking "Copy shareable link." in Zoom: https://galvanize.zoom.us/rec/share/y5U5ylMX2_SAnEGnp-h-k9VK4pU4EUytK-BarDcozz2mRshckpYs5Oe6WYehdm2W.wj3YHQWfmEgW0ezK?startTime=1707844261000

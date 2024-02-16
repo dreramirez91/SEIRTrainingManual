@@ -40,3 +40,16 @@ Note, if a student should be marked excused, that will have been reported by the
 ## Revisions
 
 If a student requests that you "give them their token back" because of some excuse or another, you must first get approval from their CL. **No revisions to student attendance should be made with the CL's approval outside of a SEIR pressing the wrong button after the attendance token has expired (e.g. pressing "Excused" when the student should have been marked "Tardy.")**
+
+# Energy Management
+
+> I have come to the frightening conclusion that I am the decisive element. It is my personal approach that creates the climate. It is my daily mood that makes the weather. I possess tremendous power to make life miserable or joyous.
+
+*— Haim G. Ginott*
+
+Your energy matters! Keep it lively for an interactive and positive bootcamp experience.
+
+- As much as possible, avoid silence!
+      - Use polls and conversations to maintain engagement.
+      - Stimulate conversations for rapport-building, especially early on!.
+      - Personalize by using student names.

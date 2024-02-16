@@ -45,11 +45,9 @@ If a student requests that you "give them their token back" because of some excu
 
 > I have come to the frightening conclusion that I am the decisive element. It is my personal approach that creates the climate. It is my daily mood that makes the weather. I possess tremendous power to make life miserable or joyous.
 
-*— Haim G. Ginott*
-
 Your energy matters! Keep it lively for an interactive and positive bootcamp experience.
 
 - As much as possible, avoid silence!
-      - Use polls and conversations to maintain engagement.
-      - Stimulate conversations for rapport-building, especially early on!.
-      - Personalize by using student names.
+    - Use polls and conversations to maintain engagement.
+    - Stimulate conversations for rapport-building, especially early on!
+    - Personalize by using student names.
